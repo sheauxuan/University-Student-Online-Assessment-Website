@@ -5,7 +5,7 @@ It uses"PHP", "MySQL", "HTML", "CSS" and "JavaScript" for frontend and backend d
 
 - PHP
 - MySQL Database
-- HTML / CSS / JavaScript
+- HTML & CSS & JavaScript
 - XAMPP (Apache, MySQL, PHP server)
 - Visual Studio Code (VS Code)
 
@@ -50,7 +50,7 @@ How to Set Up and Run
  7. Run the Project
     
     -In your browser, go to:  
-     http://localhost/your-project-folder/
+     http://localhost/your-file-name/
 
 
 ✅ You are ready to use the application. The project will now be live on your local machine
