@@ -46,7 +46,7 @@ HOW TO SET UP AND RUN ?
  - Open your browser and go to:  
    http://localhost/phpmyadmin
 
- 6.Import the provided sql file to set up the database tables and initial data.
+  6.Import the provided sql file to set up the database tables and initial data.
 
  7. Run the Project
     
