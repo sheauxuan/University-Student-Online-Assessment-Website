@@ -1,4 +1,4 @@
-This project is a WEB APPLICATION designed for university student to do quiz accessment based on their selected courses.  
+This project is a **web application** designed for **university students** to perform quiz assessments based on their selected courses. 
 It uses"PHP", "MySQL", "HTML", "CSS" and "JavaScript" for frontend and backend development.
 
  Technologies Used
