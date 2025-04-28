@@ -22,8 +22,6 @@ HOW TO SET UP AND RUN ?
   - **Apache** server
   - **MySQL** database
 
----
-
  2. Install Visual Studio Code
 
 - Download VS Code from:  
