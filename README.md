@@ -1,7 +1,8 @@
-This project is a **web application** designed for **university students** to perform quiz assessments based on their selected courses. 
+This project is a web application designed for university students to perform quiz assessments based on their selected courses. 
+
 It uses"PHP", "MySQL", "HTML", "CSS" and "JavaScript" for frontend and backend development.
 
- Technologies Used
+Technologies Used
 
 - PHP
 - MySQL Database
@@ -9,7 +10,7 @@ It uses"PHP", "MySQL", "HTML", "CSS" and "JavaScript" for frontend and backend d
 - XAMPP (Apache, MySQL, PHP server)
 - Visual Studio Code (VS Code)
 
-How to Set Up and Run
+HOW TO SET UP AND RUN ?
 
  1. Install XAMPP
 
